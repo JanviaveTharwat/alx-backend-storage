@@ -2,7 +2,6 @@
 """ Redis Module """
 
 
-
 import redis
 import requests
 from functools import wraps
